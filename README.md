@@ -6,7 +6,7 @@
 ## Activating The Virtual Environment
 `source .venv/bin/activate`
 
-## Installing Django
+## Installing Application
 `pip install -r requirements.txt`
 
 ## install the app
