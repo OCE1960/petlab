@@ -1,5 +1,5 @@
 __pycache__
-app.egg-info
+petlab_task.egg-info
 *.pyc
 .mypy_cache
 .coverage
